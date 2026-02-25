@@ -1,1 +1,19 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/W1S4ltTlmwF0XsXAxiTQwx/Sihyun-Kim-%7C-AirMoss?page-id=0%3A1&node-id=384-988&viewport=-2088%2C-2949%2C0.55&scaling=scale-down&content-scaling=fixed&starting-point-node-id=384%3A988&embed-host=share" allowfullscreen></iframe>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AirMoss Prototype</title>
+</head>
+
+<body style="margin:0; padding:0;">
+
+  <iframe
+    src="https://embed.figma.com/proto/W1S4ltTlmwF0XsXAxiTQwx/Sihyun-Kim-%7C-AirMoss?node-id=384-988&embed-host=share"
+    style="border:none;"
+    width="100%"
+    height="100%"
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
